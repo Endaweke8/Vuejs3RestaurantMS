@@ -1,0 +1,120 @@
+{
+  "users": [
+    {
+      "email": "endaweke1@gmail.com",
+      "name": "endaweke1",
+      "password": "endaweke@123",
+      "id": 1
+    },
+    {
+      "email": "bro@gmail.com",
+      "name": "bro",
+      "password": "bro123",
+      "id": 2
+    },
+    {
+      "email": "ayne@gmail.com",
+      "name": "aynekulu",
+      "password": "bro123",
+      "id": 3
+    },
+    {
+      "email": "bro@gmail.com",
+      "name": "Helina",
+      "password": "bro123",
+      "id": 4
+    },
+    {
+      "email": "Hayile@gmail.com",
+      "name": "Hayile",
+      "password": "bro123",
+      "id": 5
+    },
+    {
+      "email": "gele@gmail.com",
+      "name": "Gelawdios",
+      "password": "bro123",
+      "id": 6
+    },
+    {
+      "email": "betre@gmail.com",
+      "name": "Betremariam",
+      "password": "betre@123",
+      "id": 7
+    },
+    {
+      "email": "Hayile@gmail.com",
+      "name": "",
+      "password": "bro123",
+      "id": 8
+    },
+    {
+      "email": "Hayile@gmail.com",
+      "name": "",
+      "password": "bro123",
+      "id": 9
+    },
+    {
+      "email": "Hayile@gmail.com",
+      "name": "Good",
+      "password": "bro123",
+      "id": 10
+    }
+  ],
+  "restuarants": [
+    {
+      "name": "Alibaba Hotel go",
+      "address": "Gira kidamn",
+      "contact": "45555",
+      "id": "agrx80F"
+    },
+    {
+      "name": "Jafar Hotel",
+      "address": "Gebia Adebabay",
+      "contact": "4567",
+      "id": "17vpATz"
+    },
+    {
+      "name": "Jafar Hotel",
+      "address": "Gebia Adebabay",
+      "contact": "4567",
+      "id": "UoUXJ5F"
+    },
+    {
+      "name": "Thomas jeferson",
+      "address": "No Amanuel mewucha",
+      "contact": "4567",
+      "id": "-h-muFn"
+    },
+    {
+      "name": "Jafar Hotel",
+      "address": "Gebia Adebabay",
+      "contact": "4567",
+      "id": "FzNUcYT"
+    },
+    {
+      "name": "Jafar Hotel",
+      "address": "Gebia Adebabay",
+      "contact": "4567",
+      "id": "MEdTWIg"
+    },
+    {
+      "name": "Nihan Hotel",
+      "address": "456",
+      "contact": "6789",
+      "id": "R9FJCtl"
+    },
+    {
+      "name": "viral hotel blewus",
+      "address": "Addis ababa",
+      "contact": "67845454",
+      "id": "AqbLNQF"
+    },
+    {
+      "name": "Bichena Hotel",
+      "address": "Bichena",
+      "contact": "4567",
+      "id": "Sqraovf"
+    }
+  ]
+}
